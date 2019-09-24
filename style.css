@@ -1,0 +1,85 @@
+.header{
+    /*border: 1px solid black;*/
+    display: flex
+}
+
+.logo {
+    /*border: 1px solid black;*/
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+
+.logo img {
+    width: 95%;
+    height: 95%;
+    margin-top: 25%;
+}
+
+.section {
+    padding-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.section .title{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 5%;
+    align-content: center;
+}
+
+.menu {
+    padding-top: 10px;
+    margin-bottom: 10%;
+}
+
+.main{
+    display: flex;
+    margin-top: 1%;
+}
+
+.side-image{
+    text-align: center;
+    padding-top: 6%;
+    margin-top: 1%;
+}
+
+.info{
+    margin-left: 5%;
+    margin-top: 3%;
+    align-content: center;
+}
+
+.info p{
+    padding-left: 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-content: center;
+}
+
+.info. h1{
+    margin-bottom: 20%;
+}
+
+.info .date{
+    font-style: italic;
+}
+
+.info .event{
+    margin-left: 5%;
+}
+.info .caps{
+    margin-top: 1%
+}
+
+.infoabc {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+
+
