@@ -1,6 +1,5 @@
 # { NORTHSIDE YOUTH SOCCER LEAGUE } 
 
-Soccer League Page
 Skills required to complete this project:
 
 - Creating basic webpages with HTML
