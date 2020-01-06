@@ -17,7 +17,7 @@ Skills required to complete this project:
 - Using I-frames to embed external elements onto webpages
 
 
-Visit my project here - https://ammatinho.github.io/NYSL-Website/
+Visit my project here - 
 
 Technologies used:
 
